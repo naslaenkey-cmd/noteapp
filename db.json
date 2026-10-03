@@ -1,0 +1,39 @@
+{
+  "notes": [
+    {
+      "title": "progressss...!!",
+      "content": "Ohhh you did itt....",
+      "color": "lightpink",
+      "category": "work",
+      "tags": [
+        "work"
+      ],
+      "archived": false,
+      "stock": 0,
+      "pinned": false,
+      "createdAt": "2026-09-24T07:57:35.062Z",
+      "updatedAt": "2026-09-24T07:59:05.066Z",
+      "createdate": "2026-09-24T07:57:35.062Z",
+      "updatedate": "2026-09-24T07:59:05.066Z",
+      "id": "S65GxNfpKo4"
+    },
+    {
+      "title": "dear diaryyy...!",
+      "content": "today i went the kc biriyani eat biriyani with my nasla",
+      "color": "lavender",
+      "category": "personal",
+      "tags": [
+        "personal"
+      ],
+      "archived": true,
+      "stock": 0,
+      "pinned": true,
+      "createdAt": "2026-09-26T10:48:00.406Z",
+      "updatedAt": "2026-09-26T10:48:47.531Z",
+      "createdate": "2026-09-26T10:48:00.406Z",
+      "updatedate": "2026-09-26T10:48:47.531Z",
+      "id": "gS3sLw3cRDU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
